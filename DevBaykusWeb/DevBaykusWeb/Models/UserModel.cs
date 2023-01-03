@@ -11,7 +11,7 @@ namespace DevBaykusWeb.Models
         public string Address_2 { get; set; }
         public string CreditCardInfos { get; set; }
 		public string IsActive { get; set; }
-		public DateTime LastLogoutDate { get; set; }
+		//public DateTime LastLogoutDate { get; set; }
 		
 	}
 }
