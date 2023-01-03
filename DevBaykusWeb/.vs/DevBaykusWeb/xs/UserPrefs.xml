@@ -1,30 +1,20 @@
-﻿<Properties StartupConfiguration="{FAC70161-C348-4F6A-8304-25CBF7AF5484}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{F343BC3E-359A-46B6-BB73-00F7C2712488}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DevBaykusWeb/Models/ErrorViewModel.cs">
-    <Files>
-      <File FileName="DevBaykusWeb/Models/ErrorViewModel.cs" Line="10" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DevBaykusWeb" expanded="True">
-            <Node name="DevBaykusWeb" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="js" expanded="True">
-                  <Node name="site.js" selected="True" />
-                </Node>
-              </Node>
-            </Node>
+            <Node name="DevBaykusWeb" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.DevBaykusWeb PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DevBaykusWeb FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
