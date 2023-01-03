@@ -2,7 +2,7 @@
 namespace DevBaykusWeb.Models
 {
 	public class UserModel
-	{ //test anıl
+	{ //test anıl asdasd
 		public int Id { get; set; }
 		public string Name { get; set; }
 		public string Surname { get; set; }
@@ -12,7 +12,7 @@ namespace DevBaykusWeb.Models
         public string CreditCardInfos { get; set; }
 		public DateTime LastLogoutDate { get; set; }
 		public string IsActive { get; set; }
-		//anilduz tarafından ellendi.!!!
+		//anilduz tarafından ellendi.!!! before merge, required pull rqst
 		
 	}
 }
