@@ -2,11 +2,7 @@
 namespace DevBaykusWeb.Models
 {
 	public class UserModel
-<<<<<<< HEAD
-	{ 
-=======
-	{ //test anıl asdasd
->>>>>>> 7a9216baa9d0fbeb474318bea67fe02a18edd4c0
+	{ //test anıl asdasd asd
 		public int Id { get; set; }
 		public string Name { get; set; }
 		public string Surname { get; set; }
@@ -16,10 +12,7 @@ namespace DevBaykusWeb.Models
         public string CreditCardInfos { get; set; }
 		public DateTime LastLogoutDate { get; set; }
 		public string IsActive { get; set; }
-<<<<<<< HEAD
-=======
 		//anilduz tarafından ellendi.!!! before merge, required pull rqst
->>>>>>> 7a9216baa9d0fbeb474318bea67fe02a18edd4c0
 		
 	}
 }
