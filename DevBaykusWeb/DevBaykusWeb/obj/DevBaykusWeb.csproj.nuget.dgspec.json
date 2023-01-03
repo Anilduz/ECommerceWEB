@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anilduz/Projects/DevBaykusWeb/DevBaykusWeb/DevBaykusWeb.csproj": {}
+    "/Users/anilduz/Documents/GitHub/ECommerceWEB/DevBaykusWeb/DevBaykusWeb/DevBaykusWeb.csproj": {}
   },
   "projects": {
-    "/Users/anilduz/Projects/DevBaykusWeb/DevBaykusWeb/DevBaykusWeb.csproj": {
+    "/Users/anilduz/Documents/GitHub/ECommerceWEB/DevBaykusWeb/DevBaykusWeb/DevBaykusWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anilduz/Projects/DevBaykusWeb/DevBaykusWeb/DevBaykusWeb.csproj",
+        "projectUniqueName": "/Users/anilduz/Documents/GitHub/ECommerceWEB/DevBaykusWeb/DevBaykusWeb/DevBaykusWeb.csproj",
         "projectName": "DevBaykusWeb",
-        "projectPath": "/Users/anilduz/Projects/DevBaykusWeb/DevBaykusWeb/DevBaykusWeb.csproj",
+        "projectPath": "/Users/anilduz/Documents/GitHub/ECommerceWEB/DevBaykusWeb/DevBaykusWeb/DevBaykusWeb.csproj",
         "packagesPath": "/Users/anilduz/.nuget/packages/",
-        "outputPath": "/Users/anilduz/Projects/DevBaykusWeb/DevBaykusWeb/obj/",
+        "outputPath": "/Users/anilduz/Documents/GitHub/ECommerceWEB/DevBaykusWeb/DevBaykusWeb/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anilduz/.nuget/NuGet/NuGet.Config"
