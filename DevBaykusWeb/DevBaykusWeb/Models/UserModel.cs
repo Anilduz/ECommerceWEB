@@ -2,7 +2,7 @@
 namespace DevBaykusWeb.Models
 {
 	public class UserModel
-	{ //test anıl asdasd
+	{ //test anıl asdasd asd
 		public int Id { get; set; }
 		public string Name { get; set; }
 		public string Surname { get; set; }
