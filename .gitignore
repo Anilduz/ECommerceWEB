@@ -492,3 +492,6 @@ DevBaykusWeb/DevBaykusWeb/obj/Debug/net7.0/DevBaykusWeb.assets.cache
 *.props
 *.json
 *.cache
+*.json
+*.json
+*.cache
