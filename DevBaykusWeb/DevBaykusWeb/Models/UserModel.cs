@@ -12,7 +12,7 @@ namespace DevBaykusWeb.Models
         public string CreditCardInfos { get; set; }
 		public DateTime LastLogoutDate { get; set; }
 		public string IsActive { get; set; }
-		//anilduz tarafından ellendi.!!!
+		//anilduz tarafından ellendi.!!! before merge
 		
 	}
 }
