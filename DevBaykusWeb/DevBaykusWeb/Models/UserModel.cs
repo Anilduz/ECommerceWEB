@@ -10,7 +10,7 @@ namespace DevBaykusWeb.Models
 		public string Address { get; set; }
         public string Address_2 { get; set; }
         public string CreditCardInfos { get; set; }
-		//public DateTime LastLogoutDate { get; set; }
+		public DateTime LastLogoutDate { get; set; }
 		public string IsActive { get; set; }
 		//anilduz tarafından ellendi.
 		
