@@ -8,25 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/anilduz/.nuget/packages/": {}
+    "C:\\Users\\aduz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anilduz/Documents/GitHub/ECommerceWEB/DevBaykusWeb/DevBaykusWeb/DevBaykusWeb.csproj",
+      "projectUniqueName": "C:\\Users\\aduz\\Documents\\GitHub\\ECommerceWEB\\DevBaykusWeb\\DevBaykusWeb\\DevBaykusWeb.csproj",
       "projectName": "DevBaykusWeb",
-      "projectPath": "/Users/anilduz/Documents/GitHub/ECommerceWEB/DevBaykusWeb/DevBaykusWeb/DevBaykusWeb.csproj",
-      "packagesPath": "/Users/anilduz/.nuget/packages/",
-      "outputPath": "/Users/anilduz/Documents/GitHub/ECommerceWEB/DevBaykusWeb/DevBaykusWeb/obj/",
+      "projectPath": "C:\\Users\\aduz\\Documents\\GitHub\\ECommerceWEB\\DevBaykusWeb\\DevBaykusWeb\\DevBaykusWeb.csproj",
+      "packagesPath": "C:\\Users\\aduz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aduz\\Documents\\GitHub\\ECommerceWEB\\DevBaykusWeb\\DevBaykusWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/anilduz/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\aduz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -55,15 +56,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

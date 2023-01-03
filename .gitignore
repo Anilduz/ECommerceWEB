@@ -485,3 +485,10 @@ DevBaykusWeb/DevBaykusWeb/obj/project.assets.json
 DevBaykusWeb/DevBaykusWeb/obj/project.nuget.cache
 *.cache
 DevBaykusWeb/DevBaykusWeb/obj/Debug/net7.0/DevBaykusWeb.assets.cache
+*.cache
+*.cache
+*.editorconfig
+*.json
+*.props
+*.json
+*.cache
