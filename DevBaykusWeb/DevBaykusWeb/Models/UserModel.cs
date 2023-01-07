@@ -3,8 +3,10 @@ namespace DevBaykusWeb.Models
 {
 	public class UserModel
 	{ //test anıl asdasd asd !!!!! QWDQWDQWDQWDQWasd xDDDDDddd ozan
-	//davut öğe çok sinirli bir insandır
-		public int Id { get; set; }
+      //davut öğe çok sinirli bir insandır
+      //armağan saygılı çok kırıcı 1 insan
+      //ozan çok hızlı bir yazılımcı
+        public int Id { get; set; }
 		public string Name { get; set; }
 		public string Surname { get; set; }
 		public string PhoneNumber { get; set; }
